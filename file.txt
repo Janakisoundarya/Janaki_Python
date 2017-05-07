@@ -1,0 +1,4 @@
+Source    Target  Value
+B cells Streptococcus pneumoniae    226
+B cells Candida albicans    136
+B cells Mycoplasma  120
